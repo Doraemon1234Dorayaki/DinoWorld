@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "title": "Albertosaurus",
+      "image" : "https://www.q-files.com/images/pages/images/590/albertosaurus-1.jpg",
+      "description": "Albertosaurus was a tyrannosaur, a family of large theropods from the Late Cretaceous Period"
+    },
+    {
+      "title": "Allosaurus",
+      "image" : "https://www.q-files.com/images/pages/images/591/allosaurus-1.jpg",
+      "description": "Allosaurus was a giant theropod, one of the largest before the appearance of the tyrannosaurs about 70 million years later"
+    },
+    {
+      "title": "Apatosaurus",
+      "image" : "https://www.q-files.com/images/pages/images/2156/p1c7lti93ehkg1r4dventeq1hvvp.jpg",
+      "description": "Apatosaurus was a huge sauropod that lived in North America during the Late Jurassic period"
+    },
+    {
+      "title": "Archaeopteryx",
+      "image" : "https://www.q-files.com/images/pages/images/592/archaeopteryx-1.jpg",
+      "description": "Archaeopteryx is the earliest and most primitive bird known. It has features that resemble both birds and dinosaurs"
+    },
+    {
+      "title": "Baryonyx",
+      "image" : "https://www.q-files.com/images/pages/images/593/baryonyx-1.jpg",
+      "description": "Baryonyx was a large Early Cretaceous theropod. Its skull was long and narrow like a crocodile’s"
+    },
+    {
+      "title": "Brachiosaurus",
+      "image" : "https://www.q-files.com/images/pages/images/594/brachiosaurus-2.jpg",
+      "description": "Brachiosaurus was a huge sauropod that lived in North America during the Late Jurassic Period. Like all sauropods"
+    },
+    {
+      "title": "Carnotaurus",
+      "image" : "https://www.q-files.com/images/pages/images/595/p189vto335196fpr8eg99mv1gr22c.jpg",
+      "description": "Carnotaurus was a large theropod that lived in South America during the Late Cretaceous Period. It is known from a single fossil"
+    },
+    {
+      "title": "Coelophysis",
+      "image" : "https://www.q-files.com/images/pages/images/596/coelophysis-6.jpg",
+      "description": "Coelophysis was a theropod from Triassic North America. It had a narrow head, shaped like a stork’s"
+    },
+    {
+      "title": "Compsognathus",
+      "image" : "https://www.q-files.com/images/pages/images/597/compsognathus-1.jpg",
+      "description": "Compognathus was a small, bird-like theropod, about the size of a turkey, but with a slender body"
+    },
+    {
+      "title": "Deinonychus",
+      "image" : "https://www.q-files.com/images/pages/images/598/p18a035mi47ic1frj2na1ej15fk2t.jpg",
+      "description": "Deinonychus was a ferocious theropod from Early Cretaceous North America. It had long hindlimbs with a large"
+    }
+  ]
+}

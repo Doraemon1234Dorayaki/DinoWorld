@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379885986243",
+    "firebase_url": "https://dinoworld3.firebaseio.com",
+    "project_id": "dinoworld3",
+    "storage_bucket": "dinoworld3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379885986243:android:fbf539bdee77b364691d76",
+        "android_client_info": {
+          "package_name": "com.example.recycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379885986243-cvm26mhu35mhueedjih2rj0h3e28j2hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recycle",
+            "certificate_hash": "68ab51d0dca53b6cc58666c784580d449a2efaaa"
+          }
+        },
+        {
+          "client_id": "379885986243-p109kjki6oaqre3ltmc6skuodofkhc5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYagqDT9juf2BkVArVe20LMc9Qr6KgYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379885986243-p109kjki6oaqre3ltmc6skuodofkhc5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
